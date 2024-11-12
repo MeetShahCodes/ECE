@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"62bf7f538f87f3c9","type":"group","x":-820,"y":-443,"width":860,"height":1018,"color":"3","label":"Epsilon Delta"},
+		{"id":"bb60b2b53c00b755","type":"text","text":"Note that during single variable integration of a multivariable function, the constant of integration is a function of the variable which is not being integrated.\n![[Pasted image 20241104112511.png]]","x":560,"y":18,"width":640,"height":242},
+		{"id":"2b2d4fa8c0ebef90","type":"text","text":"Iterated integrals only work for volumes with a rectangular base, suppose we have a base defined as:\n![[Pasted image 20241104121053.png]]\n\nThen we perform the integrals as:\n![[Pasted image 20241104121112.png]]","x":560,"y":289,"width":640,"height":571},
+		{"id":"b06de4934e2de8a7","type":"file","file":"MAI-101/rsc/Pasted image 20241028133452.png","x":-800,"y":-423,"width":480,"height":168},
+		{"id":"ded94e7ef97c033e","type":"file","file":"MAI-101/rsc/Pasted image 20241028132657.png","x":-800,"y":-238,"width":465,"height":58},
+		{"id":"f88f94bceae327d1","type":"file","file":"MAI-101/rsc/Pasted image 20241028132745.png","x":-799,"y":-160,"width":799,"height":382},
+		{"id":"3d253cf587031f4e","type":"file","file":"MAI-101/rsc/Pasted image 20241028133326.png","x":-799,"y":240,"width":799,"height":274},
+		{"id":"6fc81381136e9f64","type":"file","file":"MAI-101/rsc/Pasted image 20241104111842.png","x":560,"y":-120,"width":640,"height":124},
+		{"id":"456e5c43a3df1c71","type":"file","file":"MAI-101/rsc/Pasted image 20241104111430.png","x":560,"y":-286,"width":638,"height":146}
+	],
+	"edges":[]
+}
