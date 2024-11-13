@@ -18,6 +18,18 @@
               "icon": "lucide-file-text",
               "title": "CMI Lectures Notes Quantum Mechanics"
             }
+          },
+          {
+            "id": "e60b919fd2ab5711",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ECE Sem 1/PHI-101/CMI Lectures Notes Quantum Mechanics.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMI Lectures Notes Quantum Mechanics"
+            }
           }
         ]
       }
@@ -163,12 +175,14 @@
   },
   "active": "6ed1ec02097f947a",
   "lastOpenFiles": [
+    "ECE Sem 1/PHI-101/Electrodynamics.canvas",
+    "ECE Sem 1/CSE-101/Tree Data Structure.md",
+    "ECE Sem 1/CSE-101/Tree and Heaps.md",
+    "ECE Sem 1/PHI-101/CMI Lectures Notes Quantum Mechanics.pdf",
     "ECE Sem 1/MAI-101/Pauls Maths Notes.html",
     "Code/Dev Docs.html",
     "Code/MDN Web Docs.html",
-    "ECE Sem 1/CSE-101/Tree Data Structure.md",
     "ECE Sem 1/MAI-101/MAI-101.canvas",
-    "ECE Sem 1/PHI-101/Electrodynamics.canvas",
     "ECE Sem 1/Material Drive.html",
     "PHI-101/Electrodynamics.canvas",
     "PHI-101/CMI Lectures Notes Quantum Mechanics.pdf",
@@ -176,8 +190,6 @@
     "Material Drive_files/cb=gapi.loaded_2",
     "Material Drive_files/cb=gapi.loaded_1",
     "Material Drive_files/cb=gapi.loaded_0",
-    "Material Drive_files/rs=AFB8gszKYcLswTkCVRm5SsygPDzPE-3rXA",
-    "Material Drive_files/m=_b,_tp",
     "Material Drive_files/drive_2020q4_48dp.png",
     "Material Drive_files/logo.gif",
     "Material Drive_files/unnamed.jpg",
