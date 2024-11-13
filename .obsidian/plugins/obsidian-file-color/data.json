@@ -1,0 +1,53 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "2-55DkavIYhyRQQcmiX4p",
+      "name": "Red",
+      "value": "#c83232"
+    },
+    {
+      "id": "O_kmn4qJavvD9yD-WpyDU",
+      "name": "Green",
+      "value": "#32c832"
+    },
+    {
+      "id": "hY1wp3RgoGyri9c8iaCn6",
+      "name": "Sky",
+      "value": "#32c8c8"
+    },
+    {
+      "id": "UDcXFmLo03UNeZ-Oe1FGH",
+      "name": "Yellow",
+      "value": "#c8c832"
+    },
+    {
+      "id": "HcXsB6wlb__jSPvBIQMt7",
+      "name": "Purple",
+      "value": "#c832c8"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "ECE Sem 1/PHI-101",
+      "color": "2-55DkavIYhyRQQcmiX4p"
+    },
+    {
+      "path": "ECE Sem 1/MAI-101",
+      "color": "O_kmn4qJavvD9yD-WpyDU"
+    },
+    {
+      "path": "ECE Sem 1/CSE-101",
+      "color": "HcXsB6wlb__jSPvBIQMt7"
+    },
+    {
+      "path": "ECE Sem 1/ECC-101",
+      "color": "UDcXFmLo03UNeZ-Oe1FGH"
+    },
+    {
+      "path": "ECE Sem 1/TMI-103",
+      "color": "HcXsB6wlb__jSPvBIQMt7"
+    }
+  ]
+}

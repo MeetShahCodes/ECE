@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "3ebfbc6cf86bfa26",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bc85732a89d4eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ed1ec02097f947a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ECE Sem 1/PHI-101/CMI Lectures Notes Quantum Mechanics.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMI Lectures Notes Quantum Mechanics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7457429704d8bee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb50a92a9be665d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd81baafe2825efa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "31469465705c422f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "186c0cd8325f8e29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "b94c733a127f111c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc51415db1b57067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c47bc21d9155b41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PHI-101/PHI-101.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PHI-101"
+            }
+          },
+          {
+            "id": "6b8405693ee7e5b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MAI-101/Calculus - Early Transcendentals by James Stewart.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Calculus - Early Transcendentals by James Stewart"
+            }
+          },
+          {
+            "id": "c025b824aa8254b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b0ef806be89c9cfc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ECE Sem 1/PHI-101/CMI Lectures Notes Quantum Mechanics.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CMI Lectures Notes Quantum Mechanics"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ed1ec02097f947a",
+  "lastOpenFiles": [
+    "ECE Sem 1/MAI-101/Pauls Maths Notes.html",
+    "Code/Dev Docs.html",
+    "Code/MDN Web Docs.html",
+    "ECE Sem 1/CSE-101/Tree Data Structure.md",
+    "ECE Sem 1/MAI-101/MAI-101.canvas",
+    "ECE Sem 1/PHI-101/Electrodynamics.canvas",
+    "ECE Sem 1/Material Drive.html",
+    "PHI-101/Electrodynamics.canvas",
+    "PHI-101/CMI Lectures Notes Quantum Mechanics.pdf",
+    "Material Drive_files/cb=gapi.loaded_3",
+    "Material Drive_files/cb=gapi.loaded_2",
+    "Material Drive_files/cb=gapi.loaded_1",
+    "Material Drive_files/cb=gapi.loaded_0",
+    "Material Drive_files/rs=AFB8gszKYcLswTkCVRm5SsygPDzPE-3rXA",
+    "Material Drive_files/m=_b,_tp",
+    "Material Drive_files/drive_2020q4_48dp.png",
+    "Material Drive_files/logo.gif",
+    "Material Drive_files/unnamed.jpg",
+    "Material Drive_files/empty_state_empty_folder.svg",
+    "Material Drive_files/empty_state_details_v2.svg",
+    "Material Drive_files/empty_state_multiple_files_selected.svg",
+    "Material Drive_files/cleardot.gif",
+    "TMI-103/IPR Assignment Meet Shah 24116051.md",
+    "CSE-101/Tree and Heaps.md",
+    "CSE-101/Tree Data Structure.md",
+    "CSE-101/rsc/Pasted image 20241111140517.png",
+    "Code/Async Javascript.canvas",
+    "Code/Software Architecture Roadmap.md",
+    "Code/rsc/Pasted image 20241102143328.png",
+    "CSE-101/rsc/Pasted image 20241111155402.png",
+    "MAI-101/MAI-101.canvas",
+    "TMI-103/BIS.md",
+    "TMI-103/BIS Assignment.md",
+    "Code/Backend Web Dev Roadmap.md",
+    "References/MAI-101 Paul's Notes.md",
+    "Code/Asynchronous Javascript.md",
+    "Music/Music Theory.canvas",
+    "Code/MDN Web Docs.md",
+    "Code/HTML, CSS.canvas",
+    "2024-10-28.md",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}

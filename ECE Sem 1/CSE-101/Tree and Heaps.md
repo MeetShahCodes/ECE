@@ -242,6 +242,14 @@ class MaxHeap:
 - **`extract_max()`**: Removes the largest element (root) from the heap and restores the heap property by heapifying down.
 - **`heapify(i)`**: Restores the heap property by recursively moving the element at index `i` down.
 
+### **Heapify**
+
+![Heapify](https://www.youtube.com/watch?v=CAbDbiCfERY)
+
+### **Heap Sort**
+
+![Heap Sort](https://www.youtube.com/watch?v=nJ6FdAIr_6g)
+
 ---
 
 ### **4. Transplant Operation (For BST)**
