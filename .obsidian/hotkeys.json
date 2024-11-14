@@ -78,5 +78,13 @@
       ],
       "key": "F"
     }
+  ],
+  "terminal:open-terminal.external.current": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }
