@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef3020feac7f4f18",
+        "id": "9f8c5e6862fc176d",
         "type": "tabs",
         "children": [
           {
-            "id": "3a11c3068170bcba",
+            "id": "73cd1b1064ad1adc",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE Sem 1/HSI-101/HSI Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "HSI Notes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7f5dec8869bc38a6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "afcd1cca971697b0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ECE Sem 1/HSI-101/hsi 101 au 2024 gender sensitization.pptx.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "hsi 101 au 2024 gender sensitization.pptx"
+              "title": "New tab"
             }
           }
         ]
@@ -97,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "b94c733a127f111c",
@@ -182,20 +157,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a11c3068170bcba",
+  "active": "73cd1b1064ad1adc",
   "lastOpenFiles": [
-    "ECE Sem 1/HSI-101/hsi 101 au 2024 gender sensitization.pptx.pdf",
+    "ECE Sem 1/TMI-103/TMI-103 Notes.md",
+    "ECE Sem 1/CSE-101/Data Structures",
+    "ECE Sem 1/TMI-103/rsc/Pasted image 20241121025027.png",
+    "ECE Sem 1/TMI-103/rsc/WhatsApp Image 2024-11-21 at 02.33.35_ecc8f7fd.jpg",
+    "ECE Sem 1/TMI-103/PPTs/IP_sujata.pdf",
+    "ECE Sem 1/TMI-103/PPTs/Mentoring Compiled[1] Extract[80-127].pdf",
+    "ECE Sem 1/TMI-103/PPTs/Mentoring Ch 4 - 2024.pdf",
+    "ECE Sem 1/TMI-103/PPTs/Introduction to IPR.pdf",
+    "ECE Sem 1/TMI-103/PPTs/TMI_Thanga.pdf",
+    "ECE Sem 1/TMI-103/rsc",
+    "ECE Sem 1/TMI-103/rsc/Pasted image 20241121013543.png",
+    "ECE Sem 1/TMI-103/rsc/Pasted image 20241120232720.png",
+    "ECE Sem 1/TMI-103/PPTs/Mentoring Compiled[1].pdf",
+    "ECE Sem 1/TMI-103/PPTs",
+    "ECE Sem 1/TMI-103/New folder",
     "ECE Sem 1/HSI-101/HSI Notes.md",
-    "ECE Sem 1/HSI-101/HSI 101 au 2024 media.pptx.pdf",
-    "ECE Sem 1/HSI-101/hsi 101 au 2024 lec 2 barriers non verbal.pptx.pdf",
-    "ECE Sem 1/HSI-101/hsi 101 lecture 3 emotional intelligence.pptx.pdf",
-    "ECE Sem 1/HSI-101/HSI_2024.pdf",
-    "ECE Sem 1/MAI-101/Calculus Early Transcendentals by James Stewart.pdf",
-    "ECE Sem 1/PHI-101/CMI Lectures Notes Quantum Mechanics.pdf",
-    "ECE Sem 1/PHI-101/Arthur Beiser Concepts of Modern Physics.pdf",
+    "ECE Sem 1/HSI-101/Pasted image 20241120025038.png",
     "ECE Sem 1/PHI-101/Electrodynamics.canvas",
-    "ECE Sem 1/PHI-101/ILectures.html",
-    "ECE Sem 1/PHI-101/Peppyhare Notes.html",
     "ECE Sem 1/CSE-101/Tree Data Structure.md",
     "ECE Sem 1/CSE-101/Tree and Heaps.md",
     "ECE Sem 1/MAI-101/MAI-101.canvas",
@@ -205,16 +186,11 @@
     "Material Drive_files/unnamed.jpg",
     "Material Drive_files/empty_state_empty_folder.svg",
     "Material Drive_files/empty_state_details_v2.svg",
-    "Material Drive_files/empty_state_multiple_files_selected.svg",
-    "Material Drive_files/cleardot.gif",
     "TMI-103/IPR Assignment Meet Shah 24116051.md",
     "CSE-101/Tree and Heaps.md",
     "CSE-101/Tree Data Structure.md",
-    "CSE-101/rsc/Pasted image 20241111140517.png",
     "Code/Async Javascript.canvas",
     "Code/Software Architecture Roadmap.md",
-    "Code/rsc/Pasted image 20241102143328.png",
-    "CSE-101/rsc/Pasted image 20241111155402.png",
     "MAI-101/MAI-101.canvas",
     "TMI-103/BIS.md",
     "TMI-103/BIS Assignment.md",
